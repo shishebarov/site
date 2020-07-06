@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.block {
+display: flex;
+flex-direction: space-arond;
+align-items: flex-start;
+
+}
+
+.item {
+    text-align: center;
+  
+}
